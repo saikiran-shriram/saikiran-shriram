@@ -1,4 +1,4 @@
-70![Header](https://capsule-render.com/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Saikiran%20Shriram&fontSize=50&fontColor=fff)
+![Header](banner.svg)
 
 
 

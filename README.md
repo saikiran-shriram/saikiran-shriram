@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
-  <img src="banner-dark.svg" alt="Header" width="100%">
+  <img src="banner-dark (1).svg" alt="Header" width="100%">
 </picture>
 
 ### Aspiring AI/ML Engineer | NLP Track

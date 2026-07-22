@@ -1,7 +1,8 @@
-![Header](banner.svg)
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
+  <img src="banner-dark.svg" alt="Header" width="100%">
+</picture>
 
 ### Aspiring AI/ML Engineer | NLP Track
 
@@ -10,6 +11,7 @@
 ---
 
 ## 🧠 About Me
+
 I'm a 3rd-year AI & Data Science engineering student, currently specializing in **Natural Language Processing**. I'm working toward becoming an AI/ML Engineer, with focus on:
 
 - 🔤 Building NLP systems — text classification, sentiment analysis, language models
@@ -21,34 +23,16 @@ I'm a 3rd-year AI & Data Science engineering student, currently specializing in 
 
 ## 🛠️ Tech Stack
 
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
-
-
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-
-
-
 ![Scikit-Learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-
-
-
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-
-
-
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
-
 
 ---
 
 ## 📌 Featured Projects
+
 - **Student Management System** — Python-based system for managing student records
 - **College Prediction System** — ML model predicting admission chances using CAP round cutoff data
 - **DSA Solutions** — Data structures & algorithms practice
@@ -56,6 +40,7 @@ I'm a 3rd-year AI & Data Science engineering student, currently specializing in 
 ---
 
 ## 📫 Connect With Me
+
 - 📧 saikiranshriram7116@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/saikiran-shriram)
 - 📷 [Instagram](https://instagram.com/sai_kiranns)

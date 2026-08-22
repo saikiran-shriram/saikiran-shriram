@@ -33,9 +33,8 @@ I'm a 3rd-year AI & Data Science engineering student, currently specializing in 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikiran-shriram&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikiran-shriram&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/>
-</p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saikiran-shriram&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saikiran-shriram&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikiran-shriram&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages"/>

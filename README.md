@@ -12,6 +12,7 @@ I'm a 3rd-year AI & Data Science engineering student, currently specializing in 
 📊 Working with real datasets to solve practical prediction problems
 🌱 Currently learning: transformers, embeddings, and Hugging Face tools
 ---
+
 🛠️ Tech Stack
 <table align="center">
   <tr>
@@ -29,18 +30,19 @@ I'm a 3rd-year AI & Data Science engineering student, currently specializing in 
     </td>
   </tr>
 </table>
----
-## 📊 GitHub Stats
 
+---
+📊 GitHub Stats
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-63%2B_Solved-orange?style=for-the-badge&logo=leetcode"/>
   <img src="https://img.shields.io/badge/GitHub-Active_Contributor-blue?style=for-the-badge&logo=github"/>
 </p>
----
+
 📌 Featured Projects
 DSA Solutions — Daily LeetCode practice, organized by topic (Arrays, DP, Graphs, Trees, LinkedList) — View Repo
 ML Notebooks — Machine learning built from scratch, following Andrew Ng's ML course — View Repo
----
+
+
 📬 Connect With Me
 <div align="center">
   <a href="mailto:saikiranshriram7116@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> &nbsp;&nbsp;

@@ -33,11 +33,8 @@ I'm a 3rd-year AI & Data Science engineering student, currently specializing in 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saikiran-shriram&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saikiran-shriram&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages"/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikiran-shriram&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/LeetCode-63%2B_Solved-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/GitHub-Active_Contributor-blue?style=for-the-badge&logo=github"/>
 </p>
 ---
 📌 Featured Projects

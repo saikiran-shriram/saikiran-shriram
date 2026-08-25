@@ -28,8 +28,8 @@ I'm a 3rd-year AI & Data Science engineering student, currently specializing in 
     </td>
     <td align="center" width="33%">
       <h3>🗄️ Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,mysql,jupyter" /><br>
-    </td>
+      <img src="https://skillicons.dev/icons?i=git,github,mysql" height="45">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45">
+</td>
   </tr>
 </table>
 

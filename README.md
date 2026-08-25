@@ -18,11 +18,13 @@ I'm a 3rd-year AI & Data Science engineering student, currently specializing in 
   <tr>
     <td align="center" width="33%">
       <h3>🧠 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=python,java,c" /><br>
+      <img src="https://skillicons.dev/icons?i=python,java,c,cpp" /><br>
     </td>
     <td align="center" width="33%">
       <h3>📊 ML / Data</h3>
-      <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" /><br>
+      <img src="https://skillicons.dev/icons?i=sklearn" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
     </td>
     <td align="center" width="33%">
       <h3>🗄️ Tools</h3>

@@ -53,6 +53,6 @@ ML Notebooks — Machine learning built from scratch, following Andrew Ng's ML c
 </div>
 <br/>
 <div align="center">
-  <i>⭐ Currently: 50+ LeetCode problems solved, building my first NLP project. Long way to go, building it the right way.</i>
+  <i>⭐ Currently: 60+ LeetCode problems solved, building my first NLP project. Long way to go, building it the right way.</i>
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>

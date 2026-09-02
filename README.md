@@ -36,7 +36,7 @@ I'm a 3rd-year AI & Data Science engineering student, currently specializing in 
 ---
 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-70%2B_Solved-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/LeetCode-75%2B_Solved-orange?style=for-the-badge&logo=leetcode"/>
   <img src="https://img.shields.io/badge/GitHub-Active_Contributor-blue?style=for-the-badge&logo=github"/>
 </p>
 
@@ -53,6 +53,6 @@ ML Notebooks — Machine learning built from scratch, following Andrew Ng's ML c
 </div>
 <br/>
 <div align="center">
-  <i>⭐ Currently: 70+ LeetCode problems solved, building my first NLP project. Long way to go, building it the right way.</i>
+  <i>⭐ Currently: 75+ LeetCode problems solved, building my first NLP project. Long way to go, building it the right way.</i>
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>

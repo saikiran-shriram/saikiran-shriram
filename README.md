@@ -36,7 +36,7 @@ I'm a 3rd-year AI & Data Science engineering student, currently specializing in 
 ---
 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-150%2B_Solved-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/LeetCode-155%2B_Solved-orange?style=for-the-badge&logo=leetcode"/>
   <img src="https://img.shields.io/badge/GitHub-Active_Contributor-blue?style=for-the-badge&logo=github"/>
 </p>
 
